@@ -1,5 +1,9 @@
 # Sync2Gen
-Code for ICCV 2021 paper: [Scene Synthesis via Uncertainty-Driven Attribute Synchronization](https://drive.google.com/file/d/1QM4TTslT1UrcUiIgZU-8YZd0PgZh0p9c/view)
+Code for ICCV 2021 paper: [Scene Synthesis via Uncertainty-Driven Attribute Synchronization](https://arxiv.org/abs/2108.13499)
+
+<div align="center">
+  <img width="100%" alt="results" src="imgs/results.png">
+</div>
 
 ## 0. Environment
 Environment: `python 3.6` and `cuda 10.0` on Ubuntu 18.04
